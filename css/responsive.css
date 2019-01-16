@@ -1,0 +1,245 @@
+@media (min-width: 240px) and (max-width: 319px) {
+    .navbar-default {
+        margin-top: 130px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .academic-calender {
+        background-color: whitesmoke;
+        box-shadow: 0px 0px .1px .5px rgba(0, 0, 0, .1);
+        color: #1E8455;
+        margin-top: 20px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0px;
+    }
+    .header-contact p {
+        /*
+    font-size: 15px;
+    font-weight: 700;
+       font-family: 'Roboto', sans-serif;
+      margin-top: -20px;
+*/
+        display: none;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 50px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+    .navbar-default {
+        margin-top: 125px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .academic-calender {
+        background-color: whitesmoke;
+        box-shadow: 0px 0px .1px .5px rgba(0, 0, 0, .1);
+        color: #1E8455;
+        margin-top: 20px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0px;
+    }
+    .header-contact p {
+        /*
+    font-size: 15px;
+    font-weight: 700;
+       font-family: 'Roboto', sans-serif;
+      margin-top: -20px;
+*/
+        display: none;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 50px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 479px) {
+    .navbar-default {
+        margin-top: 130px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .academic-calender {
+        background-color: whitesmoke;
+        box-shadow: 0px 0px .1px .5px rgba(0, 0, 0, .1);
+        color: #1E8455;
+        margin-top: 20px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 0px;
+    }
+    .header-contact p {
+        /*
+    font-size: 15px;
+    font-weight: 700;
+       font-family: 'Roboto', sans-serif;
+      margin-top: -20px;
+*/
+        display: none;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 60px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 639px) {
+    .navbar-default {
+        margin-top: 130px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .header-contact p {
+        /*
+    font-size: 15px;
+    font-weight: 700;
+       font-family: 'Roboto', sans-serif;
+      margin-top: -20px;
+*/
+        display: none;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 60px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+    .navbar-default {
+        margin-top: 140px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .header-contact p {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 60px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .navbar-default {
+        margin-top: 130px;
+        background-color: #32B67A;
+        border-color: #32B67A;
+    }
+    .header-contact p {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 60px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .header-contact p {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+    }
+    .navbar-brand img {
+        margin-top: -40px;
+        background-size: cover;
+        height: 100px;
+        float: left;
+        margin-left: 60px;
+    }
+    .brnad-title {
+        float: left;
+        padding-left: 10px;
+        margin-top: -20px;
+        color: #fff;
+    }
+    .brnad-title h1 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1680px) and (max-width: 1920px)
