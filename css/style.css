@@ -222,9 +222,6 @@ a {
 
 /*======== 4.Notice Board =====*/
 
-.notice-part {
-  /* margin-top: -15px; */
-}
 
 .manaquee {
   padding: 10px;
@@ -553,19 +550,13 @@ span.seperator p {
 /*============ message page ===========*/
 
 .message-panel-info {
-  background-color: whitesmoke;
+  background-color: #f9f9f9;
   padding: 15px;
-  margin-top: 50px;
-  border: 2px solid whitesmoke;
+  margin-top: 40px;
+  border: 1px solid rgba(0,0,0,.125);
   transition: 0.5s;
 }
-.message-panel-info:hover {
-  background-color: #ddd;
-  padding: 15px;
-  margin-top: 50px;
-  border: 2px solid #660000;
-  transition: 0.5s;
-}
+
 
 .panel-profile i {
   color: #fff;
@@ -930,32 +921,16 @@ td {
   margin-left: 130px;
 }
 .main-part-header {
-  background: #2b5876; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to left,
-    #4e4376,
-    #2b5876
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to left,
-    #4e4376,
-    #2b5876
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  padding: 10px;
-  color: #fff;
+  background-color: #f9f9f9;
+  padding: 15px;
+  color: #000033;
+  border: 1px solid rgba(0,0,0,.125);
+  font-weight: bold;
+  text-transform: uppercase;
   font-family: "Roboto", sans-serif;
-  border-radius: 10px;
-  margin-bottom: 40px;
+  font-size: 18px;
 }
 
-.main-part-header:hover {
-  background-color: #000033;
-  padding: 10px;
-  color: #fff;
-  font-family: "Roboto", sans-serif;
-  margin-bottom: 40px;
-  border-radius: 10px;
-}
 /*login page*/
 .school-login {
   background-color: #1e7654;
